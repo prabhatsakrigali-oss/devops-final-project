@@ -21,4 +21,4 @@ jobs:
          run: npm install
 
        - name: Run Application
-         run: node app.js
+         run: timeout 10s node app.js
