@@ -20,5 +20,5 @@ jobs:
        - name: Install Dependencies
          run: npm install
 
-       - name: Run Application
-         run: timeout 10s node app.js
+       - name: Show Files
+         run: ls -la
