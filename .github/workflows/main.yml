@@ -22,3 +22,6 @@ jobs:
 
        - name: Show Files
          run: ls -la
+
+       - name: Build Docker Image
+         run: docker build -t devops-node-app .    
