@@ -4,7 +4,7 @@ A complete **DevOps CI/CD project** demonstrating modern software delivery pract
 
 This project showcases containerization, automated CI/CD pipelines, version control, and deployment workflows following DevOps best practices.
 
----
+---  
 
 # 📌 Project Overview
 
